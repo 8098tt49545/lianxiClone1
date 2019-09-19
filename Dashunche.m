@@ -44,9 +44,14 @@
         [self testExample];
     }else {
         
+<<<<<<< HEAD
         // xiugaile xianzai de wenjian bangzhu shixianxiugai bug
         // begain bug stash
         
+=======
+        // start working devvv
+        // begain work bug issue-101
+>>>>>>> 76c2534... fix bug 101
     }
     
 }
