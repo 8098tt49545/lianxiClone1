@@ -70,5 +70,6 @@
 - (void)wenjian
 {
     // 正在工作中。。。
+    // git checkout -b  dev
 }
 @end
