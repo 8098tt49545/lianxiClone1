@@ -47,8 +47,14 @@
         //链接远程仓库github 成功
         //再次链接储存库
         // git push origin 
+<<<<<<< HEAD
         // git push origin two
         //sdfa
+=======
+        // dev 建立 第二次
+        
+        
+>>>>>>> d7a1ff11a8613ebeb8123b475a5d5994d3288433
     }
     
 }
