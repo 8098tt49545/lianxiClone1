@@ -43,23 +43,11 @@
     if (y) {
         [self testExample];
     }else {
-        // 测试添加第二版本
-        //链接远程仓库github 成功
-        //再次链接储存库
-        // git push origin
-        // git push origin two
-        //sdfa
-        // dev 建立 第二次
-        // hahahha
-        Creating a new branch is quick and simple.
-        //cesi1
-        //cesi2
-        //cesi3
-        //cesi4- branch dev
-        //cesi5- branch devNoff
-        //cesi6- branch devNoff Zhengde
-        //cesi7- branch devNoff Zhengdezhengde
         
+        // start working devvv
+        // begain work bug issue-101
+        // xiugaile xianzai de wenjian bangzhu shixianxiugai bug
+        // begain bug stash
         // start working devvv
         // begain work bug issue-101
     }
