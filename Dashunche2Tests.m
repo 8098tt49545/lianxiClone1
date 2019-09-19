@@ -47,7 +47,7 @@
         //链接远程仓库github 成功
         //再次链接储存库
         // git push origin 
-
+        // git push origin two
     }
     
 }
