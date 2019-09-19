@@ -65,4 +65,8 @@
     }
     
 }
+- (void)bugWenjian
+{
+    
+}
 @end
