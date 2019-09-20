@@ -17,6 +17,39 @@
 - (void)setUp {
     [super setUp];
     // kong
+    *   cb5ba7f (HEAD -> dev) textTwo
+    |\
+    | *   27b9651 (origin/dev) Merge branch 'dev' of github.com:8098tt49545/lianxiClone1 into dev
+    | |\
+    | * | 6170842 kongtext
+    * | | c526629 dashunxiugai
+    | |/
+    |/|
+    * | fd9d5cd kong
+    |/
+    * 9685094 kanyikan
+    *   384bed3 kanyikan
+    |\
+    | *   10127f6 Merge branch 'dev' of github.com:8098tt49545/lianxiClone1 into dev
+    | |\
+    | * | cd3d933 dPanXG
+    * | | c1253c3 wxgd
+
+    
+    * e932719 (HEAD -> dev) dashunxiugai
+    *   27b9651 (origin/dev) Merge branch 'dev' of github.com:8098tt49545/lianxiClone1 into dev
+    |\
+    | * fd9d5cd kong
+    * | 6170842 kongtext
+    |/
+    * 9685094 kanyikan
+    *   384bed3 kanyikan
+    |\
+    | *   10127f6 Merge branch 'dev' of github.com:8098tt49545/lianxiClone1 into dev
+    | |\
+    | * | cd3d933 dPanXG
+    * | | c1253c3 wxgd
+
 }
 
 
