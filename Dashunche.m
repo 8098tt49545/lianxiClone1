@@ -17,6 +17,8 @@
 - (void)setUp {
     [super setUp];
     // Put setup code here. This method is called before the invocation of each test method in the class.
+    // z新的分支
+    
 }
 
 - (void)tearDown {
@@ -35,26 +37,5 @@
         // Put the code you want to measure the time of here.
     }];
 }
-- (void)textLearnGit
-{
-    // 学习git
-    int y = 1;
-    y = 2;
-    if (y) {
-        [self testExample];
-    }else {
-        
-        // start working devvv
-        // begain work bug issue-101
-        // xiugaile xianzai de wenjian bangzhu shixianxiugai bug
-        // begain bug stash
-        // start working devvv
-        // begain work bug issue-101
-    }
-    
-}
-- (void)bugWenjian
-{
-    // issue001 xiugai
-}
+
 @end
