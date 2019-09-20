@@ -42,6 +42,7 @@
     | * fd9d5cd kong
     * | 6170842 kongtext
     |/
+    * fd9d5cd (HEAD -> dev, origin/dev) kong
     * 9685094 kanyikan
     *   384bed3 kanyikan
     |\
@@ -49,6 +50,10 @@
     | |\
     | * | cd3d933 dPanXG
     * | | c1253c3 wxgd
+=======
+    | |/
+    |/|
+    * |   4a88269 shoudaogaidong
 
 }
 
