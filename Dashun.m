@@ -22,41 +22,9 @@
 - (void)tearDown {
     // Put teardown code here. This method is called after the invocation of each test method in the class.
     [super tearDown];
+    
+    // d磁盘 修改的内容
 }
 
-- (void)testExample {
-    // This is an example of a functional test case.
-    // Use XCTAssert and related functions to verify your tests produce the correct results.
-}
-
-- (void)testPerformanceExample {
-    // This is an example of a performance test case.
-    [self measureBlock:^{
-        // Put the code you want to measure the time of here.
-    }];
-}
-- (void)textLearnGit
-{
-    // 学习git
-    int y = 1;
-    y = 2;
-    if (y) {
-        [self testExample];
-    }else {
-        
-        // start working devvv
-        // begain work bug issue-101
-        // xiugaile xianzai de wenjian bangzhu shixianxiugai bug
-        // begain bug stash
-        // start working devvv
-        // begain work bug issue-101
-    }
-    
-}
-- (void)bugWenjian
-{
-    // issue001 xiugai
-    
-}// 保存dev 到远程分支
 
 @end
