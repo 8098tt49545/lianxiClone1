@@ -17,59 +17,8 @@
 - (void)setUp {
     [super setUp];
     // Put setup code here. This method is called before the invocation of each test method in the class.
+    // dev分支 提交版本，推送提交
 }
 
-- (void)tearDown {
-    // Put teardown code here. This method is called after the invocation of each test method in the class.
-    [super tearDown];
-}
 
-- (void)testExample {
-    // This is an example of a functional test case.
-    // Use XCTAssert and related functions to verify your tests produce the correct results.
-}
-
-- (void)testPerformanceExample {
-    // This is an example of a performance test case.
-    [self measureBlock:^{
-        // Put the code you want to measure the time of here.
-    }];
-}
-- (void)textLearnGit
-{
-    // 学习git
-    int y = 1;
-    y = 2;
-    if (y) {
-        [self testExample];
-    }else {
-        // 测试添加第二版本
-        //链接远程仓库github 成功
-        //再次链接储存库
-        // git push origin
-        // git push origin two
-        //sdfa
-        // dev 建立 第二次
-        // hahahha
-        Creating a new branch is quick and simple.
-        //cesi1
-        //cesi2
-        //cesi3
-        //cesi4- branch dev
-        //cesi5- branch devNoff
-        //cesi6- branch devNoff Zhengde
-        //cesi7- branch devNoff Zhengdezhengde
-        
-        // start working devvv zhunbei
-        
-        // start bug
-    }
-    
-}
-
-- (void)wenjian
-{
-    // 正在工作中。。。
-    // git checkout -b  dev
-}
 @end
